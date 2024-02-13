@@ -1,3 +1,5 @@
+<div align="center">
+## Go Back N File Transfer
 This is a basic TCP/UDP File Transfer program written in python.
 
 The core is from a project for my networking class.
@@ -5,6 +7,8 @@ The core is from a project for my networking class.
 Currently the program is terminal based
 
 I will be incorporating a GUI to make the user experience more enjoyable.
+
+## Instructions
 
 To use, in terminal navigate to folder containing transfer.py and gobackn.py
 
