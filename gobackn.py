@@ -1,5 +1,5 @@
 '''##############################################
- * Netster-py gobackn.py - Connor Rogers (controge)
+ * gobackn.py - Connor Rogers
  * CREATED: 11/17/23
  *
  * This program provides code for a file transfer server
